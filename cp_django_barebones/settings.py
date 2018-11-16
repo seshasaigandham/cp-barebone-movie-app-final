@@ -25,7 +25,7 @@ SECRET_KEY = '&9_c9!x27f&m0_(18z%(bxl1p+^h#rzbx8k#tly4bx6c+i@^+q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://movie-app-cloned.herokuapp.com/']
 
 
 # Application definition
